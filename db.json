@@ -1,8 +1,8 @@
 {
-  "/assistance/createUserProfile": [
+  "createUserProfile": [
     { "IndividualID": 1, "membershipId": "1", "deviceId": "1","firstname": "mr jo","lastname": "block","mobileNumberCountryCode": "0","mobileNumber": "0","emailAddress": "user@example.com","optInToLocationTracking": "true" }
   ],
-  "/assistance/setCheckIn": [
-    { "checkinId": 1, "membershipNumber": "1", "profileId": "1", "deviceId": "1", "latitude": "0.39393", "longitude": "-10.2233", "sourceId": 5, "severityId": 1 },
+  "setCheckIn": [
+    { "checkinId": 1, "membershipNumber": "1", "profileId": "1", "deviceId": "1", "latitude": "0.39393", "longitude": "-10.2233", "sourceId": 5, "severityId": 1 }
   ]
 }
